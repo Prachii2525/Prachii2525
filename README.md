@@ -4,8 +4,9 @@
 - 📫 How to reach me prachijanjire@gmail.com
 <!---
 - ⚡ Fun fact: ... 
-<!---
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Prachii2525=Prachii2525&show_icons=true&theme=radical)
+--->
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachii2525&show_icons=true&theme=radical)
 
 <!---
 Prachii2525/Prachii2525 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
