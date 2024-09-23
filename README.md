@@ -21,12 +21,10 @@ Tools & Platforms: Git 🌐, GitHub 🐙, VS Code 🖥️, Figma 🎨
 Other Technologies: WebSocket 🌐, RESTful APIs 🔗, JSON 📦, Postman 📬
 
 🚀 Projects
+
 🎵 MyTune
-
 👕 E-commerce T-Shirt Customizer
-
 📊 Personal Dashboard
-
 💬 Real-Time Chat Application
 
 
